@@ -13,12 +13,6 @@ assets/: Folder containing images and other static assets used in the project.
 Getting Started
 To set up and run the Spotify clone website locally, follow these steps:
 
-Clone the repository:
-
-git clone <https://github.com/Trisha-05/Spotify_clone.git>
-Navigate to the project directory:
-
-cd spotify-clone
 Open index.html in your web browser:
 
 You can do this by double-clicking the index.html file or by opening it from your preferred code editor with a live preview feature.
