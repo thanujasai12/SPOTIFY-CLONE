@@ -1,9 +1,9 @@
 Spotify Clone Website
 
-Overview
+Overview:
 This is a simple Spotify clone website created using HTML and CSS. The website mimics the design of Spotify's interface and includes some basic features to demonstrate how a music streaming platform might look. This project is a great way to practice front-end development skills.
 
-Features
+Features:
 Home page with a top navigation bar
 Hero section with a prominent banner image
 Music player interface with play, pause, and volume controls (static design)
@@ -19,8 +19,8 @@ Open index.html in your web browser:
 
 You can do this by double-clicking the index.html file or by opening it from your preferred code editor with a live preview feature.
 
-Assets
-The assets folder contains images used in the website. Ensure that you have the following images in the assets folder for the website to display correctly:
+
+The file contains images used in the website. Ensure that you have the following images in the assets folder for the website to display correctly:
 
 banner.jpg: Banner image for the hero section.
 logo.png: Spotify logo used in the navigation bar.
